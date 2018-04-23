@@ -1,3 +1,3 @@
 # election
-DApp for voting on Ethereum
+DApp for voting on the Ethereum
 # election

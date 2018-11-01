@@ -1,2 +1,2 @@
 # election
-DApp for voting on the Ethereum
+dApp for voting on the Ethereum
